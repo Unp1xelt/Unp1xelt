@@ -4,6 +4,6 @@
   </span>
   Hello! I'm André
   <span>
-    <img style="float: right;" src="https://raw.githubusercontent.com/Unp1xelt/Unp1xelt/main/fox2.gif" width="100px" height="75px" />
+    <img style="float: right;" src="https://raw.githubusercontent.com/Unp1xelt/Unp1xelt/main/fox.gif" width="100px" height="75px" />
   </span>
  </h2>
